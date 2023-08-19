@@ -1,5 +1,5 @@
 # Test
-Testing in different environment without installing the package
+Testing in different Python environments without locally installing packages
 
 I will keep on new Jupyter files as and when needed
 
