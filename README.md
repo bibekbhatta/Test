@@ -1,7 +1,7 @@
 # Test
 Testing in different Python environments without locally installing packages
 
-I will keep on new Jupyter files as and when needed
+I will add new Jupyter files as and when needed
 
 To open in binder, CLICK the following banner/logo
 
