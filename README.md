@@ -1,7 +1,9 @@
 # Test
-Testing in different Python environments without locally installing packages
+This repository is for testing purpose
 
-I will add new Jupyter files as and when needed
+in different Python environments without having to install packages locally
+
+More files will be updated in due time
 
 To open in binder, CLICK the following banner/logo
 
