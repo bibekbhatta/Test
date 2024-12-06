@@ -5,7 +5,7 @@ in different Python environments without having to install packages locally
 
 More files will be updated in due time
 
-To open in binder, CLICK the following banner/logo
+To open in binder, CLICK the following banner / logo
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bibekbhatta/Test/HEAD)
