@@ -5,6 +5,8 @@ in different Python environments without having to install packages locally
 
 More files will be updated in due time
 
+Use the DublinTemp.ipynb notebook for the historical min & max temperature Dublin
+
 To open in binder, CLICK the following banner / logo
 
 
