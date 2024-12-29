@@ -12,4 +12,6 @@ To open in binder, CLICK the following banner / logo
 
 <b> Gender.ipynb </b> can be used to check if a first name of a person is male or female
 
-DublinTemp.ipynb to be used for the historical min & max temperature for Dublin
+<b> DublinTemp.ipynb </b> to be used for the historical min & max temperature for Dublin
+
+<b> Armagh.ipynb </b> to be used for the average monthly min & max temperature for Armagh near Belfast, Northern Ireland
