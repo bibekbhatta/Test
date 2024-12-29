@@ -15,3 +15,5 @@ To open in binder, CLICK the following banner / logo
 <b> DublinTemp.ipynb </b> to be used for the historical min & max temperature for Dublin
 
 <b> Armagh.ipynb </b> to be used for the average monthly min & max temperature for Armagh near Belfast, Northern Ireland
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bibekbhatta/Test/HEAD)
