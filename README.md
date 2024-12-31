@@ -16,6 +16,6 @@ To open in binder, CLICK the following banner / logo
 
 <b> Armagh, Cambridge, Durham, Oxford, Sheffield, Armagh.ipynb </b> etc to be used for the average monthly min & max temperature for the respective cities
 
-df_year_avg.csv file within the Data folder provides the average highest and lowest temparature from 1900 - 2023 based on data from 5 stations
+<b> df_year_avg.csv </b> file within the Data folder provides the average highest and lowest temparature from 1900 - 2023 based on data from 5 stations
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bibekbhatta/Test/HEAD)
