@@ -1,1 +1,3 @@
+Temperature files for UK (e.g Stornaway, Sheffield) etc are in .txt format
 
+Temperature files from Republic of Ireland are in .zip format
