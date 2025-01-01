@@ -1,9 +1,5 @@
 # Test
-This repository is for testing purposes
-
-in different Python environments without having to install packages locally
-
-More files may be updated later
+This repository is for testing purposes in different Python environments without having to install packages locally
 
 To open in binder, CLICK the following banner / logo
 
