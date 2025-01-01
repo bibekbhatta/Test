@@ -20,8 +20,7 @@ To open in binder, CLICK the following banner / logo
 
 <b> df_year_avg_tem.csv </b> file is the same as above but has data starting earlier since 1883 - 2023 (total of 141 years)
 
-The data for 5 stations for 1900 - 2023 is shown as a time capsule in a 20-sec video  
-<a href="https://x.com/DrBibekBhatta/status/1874123567048032309">here</a>
+The data for 5 stations for 1900 - 2023 is shown as a time capsule in a 20-sec video<a href="https://x.com/DrBibekBhatta/status/1874123567048032309"> here</a>
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bibekbhatta/Test/HEAD)
