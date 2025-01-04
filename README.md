@@ -5,6 +5,7 @@ All the codes are provided and you can simply click (Shift+Enter) starting from 
 
 To open in binder (to run the codes), CLICK the following banner / logo
 
+Credits: Bhatta, Bibek (2024). https://github.com/bibekbhatta
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bibekbhatta/Test/HEAD)
 
