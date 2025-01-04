@@ -7,6 +7,6 @@ To run execute the Jupyter files online, click on the banner for 'binder' first 
 
 Cleaned data on max/min temperature, rain and sun is available for all 37 UK stations.
 
-Credits: Bhatta, Bibek (2024).If you use this data, kindly provide this link: <b> https://github.com/bibekbhatta</b>
+Credits: Bhatta, Bibek (2024).If you use the cleaned data, kindly provide this link: https://github.com/bibekbhatta
 
 Thank you. 
