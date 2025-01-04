@@ -1,5 +1,7 @@
 # Test
-This repository is for testing purposes in different Python environments without having to install packages locally
+You can replicate some of my charts/graphs here without having to register or install anything
+
+All the codes are provided and you can simply click (Shift+Enter) starting from the top most cell
 
 To open in binder, CLICK the following banner / logo
 
