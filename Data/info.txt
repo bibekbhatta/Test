@@ -1,3 +1,12 @@
 Temperature files for UK (e.g Stornaway, Sheffield) etc are in .txt format
 
 Temperature files from Republic of Ireland are in .zip format
+
+Jupyter files (with .ipynb extensions) can be used to replicate graphs for individual stations.
+To run execute the Jupyter files online, click on the banner for 'binder' first and it will take a few moments for the online environment to load up. Then you can click on the respective Jupyeter file to execute the codes to produce charts.
+
+Cleaned data on max/min temperature, rain and sun is available for all 37 UK stations.
+
+Credits: Bhatta, Bibek (2024).If you use this data, kindly provide a link to this webpage.
+
+Thank you. 
