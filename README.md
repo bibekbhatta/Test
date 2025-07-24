@@ -22,7 +22,7 @@ The data for 5 UK stations for 1900 - 2023 is shown as a time capsule in a 20-se
 
 <b> tempr_glb_mthly.csv</b> contains data on highest recorded daily temperature for a given country for a given month in any given year (starting 1900 or earlier).This data file is a distillation of observations  provided by National Centers for Environmental Information (NCEI). Full raw data is available via this link: "https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd_all.tar.gz"  
 
-<b> tmpr_usa_mthly.csv</b> contains max temperature data for various 49 states of USA only. Data is from the same source as above.
+<b> tmpr_usa_mthly.csv</b> contains max temperature data for 49 states of USA only. Data is from the same source as above.
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bibekbhatta/Test/HEAD)
